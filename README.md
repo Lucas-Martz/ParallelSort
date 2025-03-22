@@ -8,4 +8,4 @@ Busca medir lo milisegundos que tardan ambos, para luego comparar en que casos d
 Se Prioriza la simpleza y la rapidez.
 
 # Agradecimientos
-Agradecimientos a https://github.com/T-Lind que me proporciono el codigo base de Countig Sort para poder empezar con la resolucion del trabajo y a Santiago Jose Mansilla por ayudamer a terniar de cerrar las ideas del mismo.
+Agradecimientos a https://github.com/T-Lind que me proporciono el codigo base de Countig Sort para poder empezar con la resolucion del trabajo y a Santiago Jose Mansilla por ayudarme a terninar de cerrar las ideas del mismo.
